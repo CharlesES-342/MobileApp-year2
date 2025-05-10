@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workout Tracker</string>
+    <string name="welcome_msg">Have a good workout :-)</string>
+    <string name="enter_a_location">Enter a location</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_weather_detail">WeatherDetailActivity</string>
+    <string name="view_on_map">View on map</string>
+</resources>

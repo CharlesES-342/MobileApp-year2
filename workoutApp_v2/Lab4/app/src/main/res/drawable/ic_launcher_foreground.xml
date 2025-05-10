@@ -1,0 +1,80 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Android head - more refined circular shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,42a17,17 0 1,0 34,0a17,17 0 1,0 -34,0" />
+
+    <!-- Android body - slightly tapered for modern look -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,56l36,0l3,24l-42,0z" />
+
+    <!-- Android arms - smoother and more streamlined -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,46q-4,9 -4,16l8,3q0,-10 4,-18z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,46q4,9 4,16l-8,3q0,-10 -4,-18z" />
+
+    <!-- Android legs - with rounded corners -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,80h8q3,0 3,3v10q0,3 -3,3h-8q-3,0 -3,-3v-10q0,-3 3,-3z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,80h8q3,0 3,3v10q0,3 -3,3h-8q-3,0 -3,-3v-10q0,-3 3,-3z" />
+
+    <!-- Android eyes - minimal dots -->
+    <path
+        android:fillColor="#2B2929"
+        android:pathData="M44,38a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0z" />
+    <path
+        android:fillColor="#2B2929"
+        android:pathData="M59,38a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0z" />
+
+    <!-- Modern antennae - shorter and sleeker -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M45,27L45,32" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M63,27L63,32" />
+
+    <!-- Subtle shadow for depth -->
+    <path
+        android:fillColor="#DADADA"
+        android:pathData="M36,56l36,0l1,8l-38,0z" />
+
+
+    <!-- Dumbbell weights -->
+    <path
+        android:fillColor="#6E060F"
+        android:pathData="M20,40h10v28H20z" />
+    <path
+        android:fillColor="#6E060F"
+        android:pathData="M78,40h10v28H78z" />
+
+    <!-- Dumbbell handle -->
+    <path
+        android:fillColor="#3E4547"
+        android:pathData="M30,50h48v8H30z" />
+
+    <!-- Weight highlights -->
+    <path
+        android:fillColor="#6E060F"
+        android:pathData="M20,40h10v14H20z" />
+    <path
+        android:fillColor="#6E060F"
+        android:pathData="M78,40h10v14H78z" />
+
+</vector>
